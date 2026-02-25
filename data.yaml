@@ -1,0 +1,7 @@
+path: C:/Users/sudee/PycharmProjects/Capstone_project/combined_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 3
+names: [person, gun, knife]
